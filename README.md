@@ -211,9 +211,14 @@ For this part of the assignment, complete the following steps:
 ![alt text](https://github.com/Khaingz/Web-Application-for-an-ETF-Analyzer/blob/main/Voila%20running%20image.png)   
 
    2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Include the recording or screenshots in the README.md file for your GitHub repository.
+<<<<<<< HEAD
    
 ![alt text](https://github.com/Khaingz/Web-Application-for-an-ETF-Analyzer/blob/main/Challenge7%20Deploying%20Voila.mp4)
 
    ##### Please noted that github doesn't supporting video recording due to large file uploading. Please click on raw material and recording video can be downloaded. 
    
    ##### Attached screenshots to show the web application appears when using voila.
+=======
+
+![alt text](https://github.com/Khaingz/Web-Application-for-an-ETF-Analyzer/blob/main/Challenge7%20Deploying%20Voila.mp4)
+>>>>>>> c8a424744043c54b753a02ffc0988f79b96c93d3
