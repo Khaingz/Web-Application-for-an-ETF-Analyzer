@@ -208,6 +208,6 @@ For this part of the assignment, complete the following steps:
 
    1. Use the Voilà library to deploy your notebook as a web application. You can deploy the web application locally on your computer.
    
-![alt text](https://github.com/Khaingz/loan_qualifier_app/blob/main/image_screenshots/save_csv_file_path.png)   
+![alt text](https://github.com/Khaingz/Web-Application-for-an-ETF-Analyzer/blob/main/Voila%20running%20image.png)   
 
    2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Include the recording or screenshots in the README.md file for your GitHub repository.
